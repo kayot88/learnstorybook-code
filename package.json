@@ -21,7 +21,7 @@
     "grunt": "^1.0.1",
     "grunt-contrib-less": "^1.4.0",
     "grunt-contrib-watch": "^1.0.0",
-    "less": "^2.7.1",
+    "less": "^3.12.2",
     "react-test-renderer": "^16.8.3",
     "react-chromatic": "^0.8.1",
     "require-context.macro": "^1.0.4"
